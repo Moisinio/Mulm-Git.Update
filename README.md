@@ -1,6 +1,6 @@
 # Mulm-Git.Update
 # Mulm-Git.Update
 # Mulm-Git.Update
-main init
+main ini
 git commit -u
 git push -m 
