@@ -2,5 +2,5 @@
 # Mulm-Git.Update
 # Mulm-Git.Update
 main ini
-git commit -u
-git push -m 
+git commit
+git push 087412415
