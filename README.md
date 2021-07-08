@@ -8,3 +8,4 @@ git push 08742
 Test 
 dev load 
 backup test 
+setup 8.7
